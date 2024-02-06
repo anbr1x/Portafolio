@@ -1,1 +1,2 @@
 ## Proyecto de web scraping, en el que se usaron los principales paradigmas de la programcion, encapsulamiento, polimorfismo, abstraccion, asi como POO, acompañado de manejo de excepciones, etc.
+### Los resultados obtenidos del WebScraping se almacenaron para luego mediante codigo optener como metricas series temporales de las variables de interes.
