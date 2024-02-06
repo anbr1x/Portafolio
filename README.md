@@ -8,4 +8,6 @@ Los archivos con sintaxis T# corresponde a la solucion de pruebas realizadas en 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 La carpeta Merge, update and process data alberga un proyecto completo en el que se extrajo, comparó, actulizó y por ultimo se dio el formato necesario, tambien se usó para hacer ciertas analiticas pedidas.
+_________________________________________________________________________________________________________________________________________________________________________________________________________
 
+### La carpeta de WebScraping combina los principales paradigmas de programacion,con un Proceso ETL, para una posterior Presentacion con fines de analisis descriptivo.
