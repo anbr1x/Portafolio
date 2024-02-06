@@ -1,2 +1,3 @@
 ## Proyecto de web scraping, en el que se usaron los principales paradigmas de la programcion, encapsulamiento, polimorfismo, abstraccion, asi como POO, acompañado de manejo de excepciones, etc.
 ### Los resultados obtenidos del WebScraping se almacenaron para luego mediante codigo optener como metricas series temporales de las variables de interes.
+#### La libreria GetData de autoria Propia encapsula la mayoria de las dependencia necesarias para la extraccion y manejo de los datos obtenidos, asi como para su consolidacion y posterior uso.
