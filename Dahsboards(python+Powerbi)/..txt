@@ -1,0 +1,1 @@
+Script que facilita la creacion de modelos semanticos normalizados para powerbi mediante archivos planos, lo que aguiliza y promueve las buenas practicas  de desarrollo.
